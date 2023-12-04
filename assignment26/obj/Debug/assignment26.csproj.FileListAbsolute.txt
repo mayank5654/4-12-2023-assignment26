@@ -1,0 +1,7 @@
+F:\practic exercise\assignment26\assignment26\bin\Debug\assignment26.exe.config
+F:\practic exercise\assignment26\assignment26\bin\Debug\assignment26.exe
+F:\practic exercise\assignment26\assignment26\bin\Debug\assignment26.pdb
+F:\practic exercise\assignment26\assignment26\obj\Debug\assignment26.csproj.AssemblyReference.cache
+F:\practic exercise\assignment26\assignment26\obj\Debug\assignment26.csproj.CoreCompileInputs.cache
+F:\practic exercise\assignment26\assignment26\obj\Debug\assignment26.exe
+F:\practic exercise\assignment26\assignment26\obj\Debug\assignment26.pdb
